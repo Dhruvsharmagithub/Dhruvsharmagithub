@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **server side scripting**
 
-- 💬 Ask me about **javascript, Reactjs , HTML , CSS**
+- 💬 Ask me about **Java, HTML, CSS, Javascript, Reactjs**
 
 - 📫 How to reach me **dhruv2k24@gmail.com**
 
